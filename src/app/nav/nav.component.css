@@ -1,0 +1,42 @@
+.sidenav-container {
+  height: 100%;
+}
+.sidenav {
+  width: 200px;
+  background-color: rgb(171, 201, 219);
+}
+.menu {
+  background: inherit;
+  height: 55px;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(240, 12, 84);
+}
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  height: 55px;
+}
+.mat-icon {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.tool {
+  background-color: rgb(233, 248, 23);
+}
+a{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(240, 12, 84);
+}
+.navlist{
+  color: rgb(240, 12, 84);
+}
+span{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(240, 12, 84);
+}
+.mat-elevation-z2{
+  background-color: rgb(171, 201, 219);
+}

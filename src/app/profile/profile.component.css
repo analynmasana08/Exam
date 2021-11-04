@@ -1,0 +1,51 @@
+.example-card {
+  max-width: 100%;
+}
+.mat-card {
+  background-color: rgb(17, 17, 16);
+  color: rgb(238, 238, 12);
+  max-height: max-content;
+}
+.mat-card-title {
+  padding: 54px;
+  background-color: rgb(158, 40, 158);
+  height: 295px;
+  font: 1.2em sans-serif;
+}
+img {
+  width: 70%;
+  height:420px;
+  border-radius: 5px;
+}
+.mat-card-content {
+  background-color: rgb(180, 21, 180);
+  height: 140px;
+}
+p {
+  text-align: center;
+  color: rgb(238, 238, 12);
+  font: 1.2em sans-serif;
+  font-weight: solid;
+  font-style: italic;
+  font-size: 30px;
+  padding: 50px;
+}
+h1 {
+  padding-top: 10px;
+  font: 1.4em sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: light;
+  font-size: 30px;
+  padding-top: 60px;
+}
+h2 {
+  text-align: center;
+}
+.mat-elevation-z1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
